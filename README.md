@@ -1,5 +1,5 @@
 # -甜橙金融杯rank1-
-attributed by
+contributed by
 @wiki
 @guoxf
 @Nich
